@@ -1,5 +1,5 @@
 #This file contain credential and need to be removed
 
-db_connection=myserveripaddress
-db_user=dbusername
-db_pass=StrongP@ssw0rd
+db_connection=
+db_user=
+db_pass=
